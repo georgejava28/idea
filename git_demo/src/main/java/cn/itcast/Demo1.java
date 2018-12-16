@@ -8,6 +8,7 @@ public class Demo1 {
         System.out.println(22222);
         //又改了
         System.out.println(111);
+        int x= 2;
 
     }
 }
