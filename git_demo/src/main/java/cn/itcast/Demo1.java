@@ -6,5 +6,8 @@ public class Demo1 {
         int i =10;
         System.out.println(i+1);
         System.out.println(22222);
+        //又改了
+        System.out.println(111);
+
     }
 }
