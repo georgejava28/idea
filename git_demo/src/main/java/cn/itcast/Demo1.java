@@ -10,5 +10,6 @@ public class Demo1 {
         System.out.println(111);
         int x= 2;
         System.out.println("end.....");
+        System.out.println("i love china");
     }
 }
