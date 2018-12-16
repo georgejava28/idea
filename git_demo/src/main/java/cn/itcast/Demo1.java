@@ -13,5 +13,11 @@ public class Demo1 {
         System.out.println("i love china");
         System.out.println("11111");
         System.out.println("i am coming");
+        int a = 26;
+
+
+    }
+    public void test(int a , int b){
+        System.out.println(a+b);
     }
 }
